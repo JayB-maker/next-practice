@@ -20,7 +20,7 @@ export const black = "#000000";
 export const white = "#FFFFFF";
 
 export const animateOnSkew = keyframes`
-  0%   { transform: skew(0deg, 0deg) top: -; }
+  0%   { transform: skew(0deg, 0deg) top: -; 
   100% { transform: skew(0deg, 28deg); }
 `;
 
